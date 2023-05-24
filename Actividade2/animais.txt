@@ -1,0 +1,4 @@
+Mamifero;Leão;Terra;4;Amarelo;Pele com manchas
+Peixe;Tubarão;Mar;0;Cinza;Barbatanas dorsais
+Mamifero;Gato;Terra;4;Preto;Olhos verdes
+Peixe;Salmão;Rio;0;Prateado;Nada contra a corrente

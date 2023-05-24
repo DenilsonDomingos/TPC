@@ -1,0 +1,3 @@
+Cachorro;Rex;Terra;4;Marrom;Pelagem curta;Vira-lata
+Homem;João;Terra;2;Branco;Cabelos pretos;30
+BeijaFlor;Luna;Ar;2;Verde;true;Vermelho
